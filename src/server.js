@@ -27,10 +27,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 
-//const productosApi = new Contenedor('productos.json')
 
-
-//trabajo
 //routers
 import productsRouter from './routes/poducts.js';
 import webRouter from './routes/webRoutes.js';
